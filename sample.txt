@@ -6,4 +6,4 @@ making changes in git stash
 learning git
 Adding 5th line from backed 
 checking merge conflict
-
+adding new line 
